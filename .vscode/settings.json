@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.port": 5502,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    }
+}
